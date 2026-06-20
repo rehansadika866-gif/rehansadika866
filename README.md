@@ -9,6 +9,7 @@
     <div align="center">Computer Science Student & Future Software Engineer <h3 align="center"></h3> <p align="center">The world of technology 🌐 has always fascinated me, inspiring my journey into software development. As a university student 🎓, I am continuously expanding my knowledge in programming and software engineering while building practical projects. I enjoy learning new technologies 💻, solving problems creatively, and transforming ideas into functional solutions 🚀. With a passion for continuous learning 📚 and innovation 🛠️, I am committed to growing as a developer and contributing to meaningful digital experiences.</p> </div>
     <br>
     <br>
+    
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <br>
